@@ -75,13 +75,14 @@ pip install -r requirements.txt
 
 ## **Challenges and future opportunities**
 
-**Challenges:**
+### **Challenges:**
    - Data Quality & Availability – Not all car manuals are available in digital format; some might be incomplete or poorly structured.
    - Accuracy & Reliability – Ensuring the AI provides correct interpretations without misguiding the driver is critical.
    - Real-Time Processing – The chatbot must quickly retrieve and generate responses, especially in urgent situations.
    - Integration with In-Car Systems – Some vehicles might not support AI integrations, making deployment challenging.
    - Multimodal Capabilities – Adding image recognition (e.g., detecting dashboard icons using a camera) would enhance usability but adds complexity.
-**Future Opportunities:**
+     
+### **Future Opportunities:**
    - Expansion to More Vehicles – The system can be trained with manuals from multiple car manufacturers.
    - Voice-Activated Assistance – Full voice integration with in-car AI assistants (e.g., Siri, Google Assistant, Alexa).
    - Computer Vision Integration – Drivers could take a photo of a warning light, and the AI could recognize and explain it.
