@@ -10,7 +10,7 @@ Modern vehicles come with a wide range of features and warning systems that can 
 
 - **Understands Car Warnings**: Provides explanations for warning messages found in the car manual.
 - **Recommends Actions**: Suggests appropriate steps to address issues.
-- **Supports Text-to-Speech (TTS)**: Delivers spoken guidance using TTS software, enhancing usability for drivers.
+
 
 ---
 
