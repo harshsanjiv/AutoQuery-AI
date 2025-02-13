@@ -71,19 +71,21 @@ pip install -r requirements.txt
 3. Place the car manual file (mg-zs-warning-messages.html) in the data directory
 4. Run th3 code file version 2
 
-   ## **Challenges and future opportunities**
+---
+
+## **Challenges and future opportunities**
 
 **Challenges:**
-Data Quality & Availability – Not all car manuals are available in digital format, and some might be incomplete or poorly structured.
-Accuracy & Reliability – Ensuring the AI provides correct interpretations without misguiding the driver is critical.
-Real-Time Processing – The chatbot must quickly retrieve and generate responses, especially in urgent situations.
-Integration with In-Car Systems – Some vehicles might not support AI integrations, making deployment challenging.
-Multimodal Capabilities – Adding image recognition (e.g., detecting dashboard icons using a camera) would enhance usability but adds complexity.
+   -Data Quality & Availability – Not all car manuals are available in digital format; some might be incomplete or poorly structured.
+   -Accuracy & Reliability – Ensuring the AI provides correct interpretations without misguiding the driver is critical.
+   -Real-Time Processing – The chatbot must quickly retrieve and generate responses, especially in urgent situations.
+   -Integration with In-Car Systems – Some vehicles might not support AI integrations, making deployment challenging.
+   -Multimodal Capabilities – Adding image recognition (e.g., detecting dashboard icons using a camera) would enhance usability but adds complexity.
 **Future Opportunities:**
-Expansion to More Vehicles – The system can be trained with manuals from multiple car manufacturers.
-Voice-Activated Assistance – Full voice integration with in-car AI assistants (e.g., Siri, Google Assistant, Alexa).
-Computer Vision Integration – Drivers could take a photo of a warning light, and the AI could recognize and explain it.
-Predictive Maintenance – The chatbot could analyze past queries and warn about potential future issues (e.g., “Your tire pressure has been low multiple times this month; consider a check-up”).
-Multi-Language Support – Expanding to multiple languages would make it globally accessible.
-Offline Mode – Enabling offline functionality using on-device models for areas with poor internet connectivity.
+   -Expansion to More Vehicles – The system can be trained with manuals from multiple car manufacturers.
+   -Voice-Activated Assistance – Full voice integration with in-car AI assistants (e.g., Siri, Google Assistant, Alexa).
+   -Computer Vision Integration – Drivers could take a photo of a warning light, and the AI could recognize and explain it.
+   -Predictive Maintenance – The chatbot could analyze past queries and warn about potential future issues (e.g., “Your tire pressure has been low multiple times this month; consider a check-up”).
+   -Multi-Language Support – Expanding to multiple languages would make it globally accessible.
+   -Offline Mode – Enabling offline functionality using on-device models for areas with poor internet connectivity.
 
